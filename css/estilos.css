@@ -1,0 +1,100 @@
+body {
+  font-family: Montserrat, sans-serif;
+  background-color: lightslategray;
+  color: white;
+  font-weight: lighter;
+  font-size: 12pt;
+  text-align: justify;
+  margin: 1em 4em 2em 4em;
+}
+
+a {
+  color: deepskyblue;
+  margin: 0;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightblue;
+}
+
+#poster figure {
+  margin: 0px auto;
+}
+
+#poster figure img {
+  height: 300px;
+  width: 200px;
+}
+
+#poster figure {
+  height: 300px;
+  width: 200px;
+  margin: margin: 0px 200px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 2em;
+}
+
+#sinopse p {
+  text-indent: 2em;
+}
+
+figcaption {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  padding: 5px 1em;
+  background-color: darkslategray;
+}
+
+nav a:hover{
+  background-color: beige
+}
+
+#elenco figure img {
+  width: 150px;
+  margin: 0 auto;
+}
+
+li {
+  display: inline-block;
+  margin: 0;
+}
+
+ul {
+  text-align: center;
+  margin: 0;
+}
+
+#elenco a {
+  display: inline-block;
+  margin: 0;
+}
+
+#trailers {
+  margin-bottom: 2em;
+}
+
+footer {
+  font-size: small;
+  text-align: center;
+}
+
+iframe{
+  width: 100%;
+  max-width: 480px;
+}
